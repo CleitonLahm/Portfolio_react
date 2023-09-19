@@ -1,10 +1,13 @@
-import React from 'react';
-import teste from './teste';
+import Teste from './Teste';
+import EstiloGlobal from './styles';
 
 function App() {
-  return (
-    <teste></teste>
-  );
+  return(
+    <>
+    <EstiloGlobal></EstiloGlobal>
+    <Teste></Teste>
+    </>
+  )
 }
 
 export default App;
