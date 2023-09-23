@@ -1,8 +1,9 @@
 import Titulo from "../../components/Titulo"
+import Avatar from "../../components/avatar"
 
 const Sidebar = () => (
   <aside>
-    <img src="https://github.com/cleitonlahm.png"/>
+    <Avatar></Avatar>
     <Titulo fontSize={20}>Cleiton Lahm</Titulo>
   </aside>
 )
