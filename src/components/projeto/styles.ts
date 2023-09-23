@@ -6,7 +6,7 @@ export const Card = styled.div`
 `
 
 export const LinkBotao = styled.a`
-  color: ${props => props.theme.corDeFundoBotao};
+  color: ${props => props.theme.corDeFundo};
   font-size: 14px;
   background-color: ${props => props.theme.corDeFundoBotao};
   text-decoration: none;
