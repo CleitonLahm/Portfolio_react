@@ -35,3 +35,4 @@ column-gap: 56px;
   max-width: 80%;
   display: block;
 }
+`

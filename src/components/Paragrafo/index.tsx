@@ -1,7 +1,7 @@
 
 import { P } from './styles';
 
-type Props = {
+export type Props = {
   children: string;
   tipo?: 'principal' | 'secundario';
   fontSize?: number;
