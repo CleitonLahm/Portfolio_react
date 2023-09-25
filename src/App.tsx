@@ -1,7 +1,7 @@
 import { ThemeProvider } from 'styled-components';
 
 import Sidebar from './containers/Sidebar';
-import Projetos from './containers/Projetos';
+import Projetos from './containers/ProjetosLista';
 import Sobre from './containers/Sobre';
 import EstiloGlobal, { Container } from './styles';
 import temaLight from './themes/light';

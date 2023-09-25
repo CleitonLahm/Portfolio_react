@@ -1,5 +1,5 @@
 import Titulo from "../../components/Titulo"
-import Projeto from "../../components/projeto"
+import Projeto from "../../components/projetos/todo_react"
 
 import { Lista } from "./styles"
 
